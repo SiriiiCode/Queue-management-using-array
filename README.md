@@ -23,5 +23,5 @@ and dynamic (heap-based) memory allocation techniques in C.
 
 ## How to Run
 ```bash
-gcc queue_static_dynamic.c -o queue
+gcc queuemanagement.c -o queue
 ./queue
